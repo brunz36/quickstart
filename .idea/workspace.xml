@@ -6,9 +6,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.js" afterPath="$PROJECT_DIR$/src/app/app.component.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.js.map" afterPath="$PROJECT_DIR$/src/app/app.component.js.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.component.ts" afterPath="$PROJECT_DIR$/src/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.js" afterPath="$PROJECT_DIR$/src/app/app.module.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.js.map" afterPath="$PROJECT_DIR$/src/app/app.module.js.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/app.module.ts" afterPath="$PROJECT_DIR$/src/app/app.module.ts" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,22 +20,13 @@
       <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state relative-caret-position="390">
+              <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
               <folding>
-                <marker date="1499890622000" expanded="true" signature="259:355" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.module.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#46#0" expanded="true" />
+                <marker date="1499891909000" expanded="true" signature="551:755" ph="..." />
+                <marker date="1499891909000" expanded="true" signature="590:745" ph="..." />
+                <marker date="1499891909000" expanded="true" signature="786:1022" ph="..." />
+                <marker date="1499891909000" expanded="true" signature="900:1011" ph="..." />
               </folding>
             </state>
           </provider>
@@ -57,8 +45,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/app.component.ts" />
       </list>
     </option>
   </component>
@@ -328,7 +316,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499888183719</updated>
-      <workItem from="1499888185028" duration="1841000" />
+      <workItem from="1499888185028" duration="2853000" />
     </task>
     <task id="LOCAL-00001" summary="Added New Title">
       <created>1499889894336</created>
@@ -341,7 +329,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1841000" />
+    <option name="totallyTimeSpent" value="2853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -434,10 +422,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1499890623000" expanded="true" signature="657:793" ph="{...}" />
-            <marker date="1499890623000" expanded="true" signature="687:766" ph="{...}" />
-            <marker date="1499890623000" expanded="true" signature="1272:1281" ph="[...]" />
-            <marker date="1499890623000" expanded="true" signature="1272:1278" ph="{&quot;selector&quot;: 'my-app'...}" />
+            <marker date="1499891901000" expanded="true" signature="657:793" ph="{...}" />
+            <marker date="1499891901000" expanded="true" signature="687:766" ph="{...}" />
+            <marker date="1499891901000" expanded="true" signature="1272:1281" ph="[...]" />
+            <marker date="1499891901000" expanded="true" signature="1272:1278" ph="{&quot;selector&quot;: 'my-app'...}" />
           </folding>
         </state>
       </provider>
@@ -475,10 +463,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state relative-caret-position="390">
+          <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
           <folding>
-            <marker date="1499890622000" expanded="true" signature="259:355" ph="..." />
+            <marker date="1499891909000" expanded="true" signature="551:755" ph="..." />
+            <marker date="1499891909000" expanded="true" signature="590:745" ph="..." />
+            <marker date="1499891909000" expanded="true" signature="786:1022" ph="..." />
+            <marker date="1499891909000" expanded="true" signature="900:1011" ph="..." />
           </folding>
         </state>
       </provider>
